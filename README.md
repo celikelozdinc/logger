@@ -1,5 +1,5 @@
 # INTENTION
-Uses different versions of the module [formatter](https://github.com/celikelozdinc/formatter)
+Uses both v1 and v2 versions of the module [formatter](https://github.com/celikelozdinc/formatter)
 
 # References :
 + https://blog.golang.org/publishing-go-modules
