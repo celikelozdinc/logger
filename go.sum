@@ -1,2 +1,4 @@
 github.com/celikelozdinc/formatter v1.1.0 h1:p0a7ourE9wbjCm6cPd1LcFTpG/0VlEUCG59UBHcx4Ag=
 github.com/celikelozdinc/formatter v1.1.0/go.mod h1:ROHP4Iicmx6MmnJE7rlo3y/fjJN2QrhksKgiEHNuutg=
+github.com/celikelozdinc/formatter/v2 v2.0.0 h1:ypUTaxawNcQT/aOKXWrx3y9gHMhE4+HYE5jP0Nk7lXw=
+github.com/celikelozdinc/formatter/v2 v2.0.0/go.mod h1:IgMeeJl3OB6tel/QSjhFYaN1qxzQHXLM/DE3/u6cZzw=
